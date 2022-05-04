@@ -1,2 +1,2 @@
 # cadastro-produtos
- Respositório do projeto de um cadastro de produtos desenvolvido com Angular
+ Respositório do projeto de cadastro de produtos desenvolvido com Angular
